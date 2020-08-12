@@ -15,7 +15,7 @@ h2 {
 
 p, li {
 	font-size: 16px;
-	line-height: 2;
+	line-height: 1.6;
 	letter-spacing: 1px;
 	color: black;
 }
@@ -36,4 +36,13 @@ img {
 
 a {
 	color: #EE4C7C;
+}
+
+.spoiler {
+	color: black;
+	background-color: black;
+}
+
+.spoiler:hover {
+	background-color: #E3E2DF;
 }
